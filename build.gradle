@@ -4,7 +4,7 @@ plugins {
     id 'net.minecraftforge.gradle' version '5.1.+'
 }
 
-version = '0.9'
+version = '1.0-SNAPSHOT'
 group = 'org.techern.supersnowballs' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'supersnowballs'
 
